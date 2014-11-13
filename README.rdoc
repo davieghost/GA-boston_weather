@@ -2,7 +2,7 @@
 
 Boston Weather Homework
 
-Things you may want to cover:
+Versions:
 
 * Ruby version 2.1.2p95
 
