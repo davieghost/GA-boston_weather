@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
   
   root 'pages#home'
+  get '/hate_it' => 'pages#hate_it'
+  get '/love_it' => 'pages#love_it'
 
   # same as above
   # get '/' => 'pages#home'
